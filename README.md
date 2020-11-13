@@ -18,8 +18,8 @@
   <img src="https://gpvc.arturio.dev/casweeney" />
   
   <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=casweeney&show_icons=true&count_private=true&theme=algolia&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=casweeney&count_private=true&hide=css,java,html&theme=algolia">
+  <img src = "https://github-readme-stats.vercel.app/api?username=casweeney&show_icons=true&count_private=true&theme=blue-green&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=casweeney&hide=css,java,html&theme=blue-green">
 </p>
 </p>
  
