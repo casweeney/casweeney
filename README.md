@@ -18,7 +18,7 @@
   <img src="https://gpvc.arturio.dev/casweeney" />
   
   <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=casweeney&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=casweeney&show_icons=true&count_private=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=casweeney&hide=css,java,html&theme=radical">
 </p>
 </p>
