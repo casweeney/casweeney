@@ -24,5 +24,5 @@
 </p>
  
 <p align='center'>
-<a href="https://stackoverflow.com/users/7715805/casweeney"><img src="https://stackoverflow.com/users/flair/10835183.png" width="208" height="58" alt="profile for Casweeney at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Casweeney at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/7715805/casweeney"></a>&nbsp;&nbsp;
 </p>
