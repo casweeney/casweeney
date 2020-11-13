@@ -23,7 +23,7 @@
 </p>
 </p>
 
-<img src="https://www.facebook.com/photo?fbid=3597398006950271&set=a.285399814816790">
+<img src="https://pbs.twimg.com/media/EmYC3q4XIAUhZuJ?format=jpg&name=240x240">
  
 <!--
 <p align='center'>
