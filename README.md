@@ -23,7 +23,7 @@
 </p>
 </p>
 
-<img src="https://pbs.twimg.com/media/EmYC3q4XIAUhZuJ?format=jpg&name=240x240">
+<img src="https://pbs.twimg.com/profile_banners/1033979326876852224/1584702653/1500x500">
  
 <!--
 <p align='center'>
