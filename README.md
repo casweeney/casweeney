@@ -1,6 +1,6 @@
 <h1 align='center'>Hello there, I am Casweeney 👋🏾</h1>
 
-<p align='center'>A Software Developer focused on (PHP/Laravel, React, Node/Express). Available for hire </p>
+<p align='center'>A Software Developer focused on (PHP/Laravel, React, Node/Express). Hit me up for a gig </p>
 
 <p align='center'>
 <a href="https://wa.me/2347036798652?text=Hello Casweeney" target="_blank">
