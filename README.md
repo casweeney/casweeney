@@ -23,8 +23,9 @@
 </p>
 </p>
 
-<h2 align='center'>This is fun 😇🏾</h2>
+<!--<h2 align='center'>This is fun 😇🏾</h2>
 <img src="https://pbs.twimg.com/profile_banners/1033979326876852224/1584702653/1500x500">
+-->
  
 <!--
 <p align='center'>
