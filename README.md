@@ -18,7 +18,7 @@
   <img src="https://gpvc.arturio.dev/casweeney" />
   
   <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=casweeney&hide=css,java,html&theme=blue-green" width="100">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=casweeney&hide=css,java,html&theme=blue-green" width="400">
 </p>
 </p>
 
