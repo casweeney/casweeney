@@ -17,9 +17,9 @@
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/casweeney" />
   
-  <p align = "center">
+  <!--<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=casweeney&hide=css,java,html&theme=blue-green">
-</p>
+</p>-->
 </p>
 
 <!--<h2 align='center'>This is fun 😇🏾</h2>
