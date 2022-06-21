@@ -6,7 +6,7 @@
 <a href="https://wa.me/2347036798652?text=Hello Casweeney" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/thecodingcas" target="_blank">
+<a href="https://twitter.com/codingcas" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/casweeney-ojukwu-93274a137/" target="_blank">
