@@ -1,6 +1,6 @@
 <h1 align='center'>Hello there, I am Casweeney 👋🏾</h1>
 
-<p align='center'>A Blockchain Developer focused on (Writing Smart Contracts, Solidity, Hardhat, Web3, React.js, TypeScript, Node/Express). Hit me up for a gig </p>
+<p align='center'>A Blockchain Developer focused on (Writing Smart Contracts, Solidity, Hardhat, Web3, React.js, TypeScript). Hit me up for a gig </p>
 <p align='center'>Previously a Software Engineer building solutions with (PHP/Laravel, React, Bootstrap, Tailwind CSS, MySQL, AWS, Digital Ocean).</p>
 
 <p align='center'>
